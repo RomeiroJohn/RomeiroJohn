@@ -5,8 +5,8 @@
 <div align="center">
   <h4 align="left">My Github stats ⚙<h4>
   <a href="https://github.com/RomeiroJohn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RomeiroJohn&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomeiroJohn&layout=demo&langs_count=5&theme=chartreuse-dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=RomeiroJohn&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomeiroJohn&layout=demo&langs_count=5&theme=chartreuse-dark"/>
           
   </a>
 </div>
